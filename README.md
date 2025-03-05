@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/14f6bfff-9192-41ca-9bef-0f6938f14d90)# 🛒 Point of Sale (POS) System in Python
+#🛒 Point of Sale (POS) System in Python
 
 A simple yet efficient **Point of Sale (POS) System** built in Python for managing sales transactions, inventory, and receipts. Designed for small businesses to streamline operations with ease.
 
@@ -17,6 +17,13 @@ A simple yet efficient **Point of Sale (POS) System** built in Python for managi
 ## 📌 Need to improve:
 - Database Management
 -
+
+## Sample pictures:
+![image](https://github.com/user-attachments/assets/63475c0d-f051-4635-8f35-615c55d0fa24)
+![image](https://github.com/user-attachments/assets/5a9d4aa1-d424-4b6f-b3ba-41ae0f8058c8)
+
+
+
 
 ## 🚀 How to Run:
 1. **Clone the repository:**
