@@ -1,0 +1,28 @@
+----------------------------------------------------------------
+                     CATPUCCINO
+                  Near at CVSU Imus
+                    0912-5911-391
+----------------------------------------------------------------
+Date: 2025-03-03 20:02:02
+Customer Name: tite
+Sugar Level: None
+----------------------------------------------------------------
+Item Name               Quantity      Size       Price
+----------------------------------------------------------------
+Brioche                   x1         None       P130.00
+Croissant                 x3         None       P540.00
+Kouign                    x1         None       P190.00
+Macaron                   x3         None       P240.00
+----------------------------------------------------------------
+Discount: Yes
+Payment Method: Cash
+Cash Received: P1000.00
+Change: P120.00
+Total Amount: P880.00
+----------------------------------------------------------------
+              THANK YOU FOR YOUR VISIT
+           We hope to see you again soon.
+----------------------------------------------------------------
+           This serves as your Official Receipt
+    Visit our Facebook Page: www.facebook.com/znn666
+----------------------------------------------------------------

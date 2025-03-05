@@ -1,0 +1,330 @@
+2024-06-15 03:25:24,391 - INFO - Receipt saved successfully: receipts\receipt 8.txt
+2024-06-15 03:25:24,391 - INFO - **Transaction Details:**
+2024-06-15 03:25:24,391 - INFO - **Date:** 2024-06-15 03:25:24
+2024-06-15 03:25:24,401 - INFO - **Customer Name:** 
+2024-06-15 03:25:24,401 - INFO - **Sugar Level:** None
+2024-06-15 03:25:24,401 - INFO - **Item:** Macchiato, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 03:25:24,401 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 03:25:24,401 - INFO - **Item:** Flat White, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 03:25:24,401 - INFO - **Item:** Baguette, **Quantity:** 1, **Size:** None, **Price:** P160.00
+2024-06-15 03:25:24,406 - INFO - **Item:** Brioche, **Quantity:** 1, **Size:** None, **Price:** P130.00
+2024-06-15 03:25:24,406 - INFO - **Item:** Croissant, **Quantity:** 1, **Size:** None, **Price:** P180.00
+2024-06-15 03:25:24,406 - INFO - **Item:** Caramel, **Quantity:** 1, **Size:** Tall, **Price:** P175.00
+2024-06-15 03:25:24,406 - INFO - **Item:** Ube Halaya, **Quantity:** 1, **Size:** Tall, **Price:** P175.00
+2024-06-15 03:25:24,406 - INFO - **Item:** Cookies N Cream, **Quantity:** 1, **Size:** Tall, **Price:** P175.00
+2024-06-15 03:25:24,406 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 03:25:24,406 - INFO - **Payment Method:** Cash
+2024-06-15 03:25:24,406 - INFO - **Cash Received:** P5000.00
+2024-06-15 03:25:24,406 - INFO - **Change:** P3480.00
+2024-06-15 03:25:24,406 - INFO - **Total Amount:** P1520.00
+2024-06-15 03:29:40,045 - INFO - Receipt saved successfully: receipts\receipt 9.txt
+2024-06-15 03:29:40,045 - INFO - **Transaction Details:**
+2024-06-15 03:29:40,045 - INFO - **Date:** 2024-06-15 03:29:40
+2024-06-15 03:29:40,055 - INFO - **Customer Name:** gab
+2024-06-15 03:29:40,055 - INFO - **Sugar Level:** 100%
+2024-06-15 03:29:40,055 - INFO - **Item:** Macchiato, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 03:29:40,055 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 03:29:40,055 - INFO - **Item:** Flat White, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 03:29:40,055 - INFO - **Item:** Baguette, **Quantity:** 1, **Size:** None, **Price:** P160.00
+2024-06-15 03:29:40,055 - INFO - **Item:** Brioche, **Quantity:** 1, **Size:** None, **Price:** P130.00
+2024-06-15 03:29:40,055 - INFO - **Item:** Croissant, **Quantity:** 1, **Size:** None, **Price:** P180.00
+2024-06-15 03:29:40,055 - INFO - **PWD/Senior Citizen:** Yes
+2024-06-15 03:29:40,055 - INFO - **Payment Method:** Cash
+2024-06-15 03:29:40,060 - INFO - **Cash Received:** P1000.00
+2024-06-15 03:29:40,060 - INFO - **Change:** P204.00
+2024-06-15 03:29:40,060 - INFO - **Total Amount:** P796.00
+2024-06-15 03:29:55,462 - INFO - Receipt saved successfully: receipts\receipt 10.txt
+2024-06-15 03:29:55,463 - INFO - **Transaction Details:**
+2024-06-15 03:29:55,463 - INFO - **Date:** 2024-06-15 03:29:55
+2024-06-15 03:29:55,463 - INFO - **Customer Name:** gab
+2024-06-15 03:29:55,464 - INFO - **Sugar Level:** 100%
+2024-06-15 03:29:55,464 - INFO - **Item:** Croissant, **Quantity:** 1, **Size:** None, **Price:** P180.00
+2024-06-15 03:29:55,465 - INFO - **Item:** Macaron, **Quantity:** 1, **Size:** None, **Price:** P80.00
+2024-06-15 03:29:55,466 - INFO - **PWD/Senior Citizen:** Yes
+2024-06-15 03:29:55,467 - INFO - **Payment Method:** Card/GCash
+2024-06-15 03:29:55,468 - INFO - **Total Amount:** P208.00
+2024-06-15 07:12:19,676 - INFO - Receipt saved successfully: receipts\receipt 11.txt
+2024-06-15 07:12:19,685 - INFO - **Transaction Details:**
+2024-06-15 07:12:19,685 - INFO - **Date:** 2024-06-15 07:12:19
+2024-06-15 07:12:19,687 - INFO - **Customer Name:** 
+2024-06-15 07:12:19,687 - INFO - **Sugar Level:** None
+2024-06-15 07:12:19,687 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 07:12:19,687 - INFO - **Item:** Flat White, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 07:12:19,687 - INFO - **Item:** Spanish Latte, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 07:12:19,687 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 07:12:19,687 - INFO - **Payment Method:** Cash
+2024-06-15 07:12:19,687 - INFO - **Cash Received:** P1000.00
+2024-06-15 07:12:19,687 - INFO - **Change:** P475.00
+2024-06-15 07:12:19,687 - INFO - **Total Amount:** P525.00
+2024-06-15 07:18:36,970 - INFO - Receipt saved successfully: receipts\receipt 12.txt
+2024-06-15 07:18:36,970 - INFO - **Transaction Details:**
+2024-06-15 07:18:36,970 - INFO - **Date:** 2024-06-15 07:18:36
+2024-06-15 07:18:36,970 - INFO - **Customer Name:** gab
+2024-06-15 07:18:36,970 - INFO - **Sugar Level:** None
+2024-06-15 07:18:36,970 - INFO - **Item:** Macchiato, **Quantity:** 1, **Size:** Grande, **Price:** P160.00
+2024-06-15 07:18:36,970 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Grande, **Price:** P160.00
+2024-06-15 07:18:36,970 - INFO - **Item:** Flat White, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 07:18:36,981 - INFO - **Item:** Hazelnut Latte, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 07:18:36,981 - INFO - **Item:** Cappuccino, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 07:18:36,981 - INFO - **Item:** Spanish Latte, **Quantity:** 1, **Size:** Grande, **Price:** P160.00
+2024-06-15 07:18:36,981 - INFO - **Item:** Baguette, **Quantity:** 1, **Size:** None, **Price:** P160.00
+2024-06-15 07:18:36,981 - INFO - **Item:** Brioche, **Quantity:** 1, **Size:** None, **Price:** P130.00
+2024-06-15 07:18:36,983 - INFO - **Item:** Croissant, **Quantity:** 1, **Size:** None, **Price:** P180.00
+2024-06-15 07:18:36,983 - INFO - **Item:** Eclair, **Quantity:** 1, **Size:** None, **Price:** P220.00
+2024-06-15 07:18:36,983 - INFO - **Item:** Kouign, **Quantity:** 1, **Size:** None, **Price:** P190.00
+2024-06-15 07:18:36,983 - INFO - **Item:** Macaron, **Quantity:** 1, **Size:** None, **Price:** P80.00
+2024-06-15 07:18:36,983 - INFO - **PWD/Senior Citizen:** Yes
+2024-06-15 07:18:36,983 - INFO - **Payment Method:** Cash
+2024-06-15 07:18:36,983 - INFO - **Cash Received:** P2000.00
+2024-06-15 07:18:36,983 - INFO - **Change:** P452.00
+2024-06-15 07:18:36,983 - INFO - **Total Amount:** P1548.00
+2024-06-15 07:18:58,157 - INFO - Receipt saved successfully: receipts\receipt 13.txt
+2024-06-15 07:18:58,157 - INFO - **Transaction Details:**
+2024-06-15 07:18:58,166 - INFO - **Date:** 2024-06-15 07:18:58
+2024-06-15 07:18:58,166 - INFO - **Customer Name:** gab
+2024-06-15 07:18:58,166 - INFO - **Sugar Level:** None
+2024-06-15 07:18:58,166 - INFO - **Item:** Baguette, **Quantity:** 1, **Size:** None, **Price:** P160.00
+2024-06-15 07:18:58,166 - INFO - **Item:** Brioche, **Quantity:** 1, **Size:** None, **Price:** P130.00
+2024-06-15 07:18:58,166 - INFO - **Item:** Croissant, **Quantity:** 1, **Size:** None, **Price:** P180.00
+2024-06-15 07:18:58,166 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 07:18:58,166 - INFO - **Payment Method:** Cash
+2024-06-15 07:18:58,166 - INFO - **Cash Received:** P500.00
+2024-06-15 07:18:58,166 - INFO - **Change:** P30.00
+2024-06-15 07:18:58,166 - INFO - **Total Amount:** P470.00
+2024-06-15 12:04:33,089 - INFO - Receipt saved successfully: receipts\receipt 14.txt
+2024-06-15 12:04:33,089 - INFO - **Transaction Details:**
+2024-06-15 12:04:33,089 - INFO - **Date:** 2024-06-15 12:04:33
+2024-06-15 12:04:33,089 - INFO - **Customer Name:** adrian
+2024-06-15 12:04:33,089 - INFO - **Sugar Level:** 100%
+2024-06-15 12:04:33,089 - INFO - **Item:** Flat White, **Quantity:** 5, **Size:** Tall, **Price:** P725.00
+2024-06-15 12:04:33,089 - INFO - **Item:** Spanish Latte, **Quantity:** 3, **Size:** Tall, **Price:** P435.00
+2024-06-15 12:04:33,089 - INFO - **PWD/Senior Citizen:** Yes
+2024-06-15 12:04:33,089 - INFO - **Payment Method:** Cash
+2024-06-15 12:04:33,089 - INFO - **Cash Received:** P2000.00
+2024-06-15 12:04:33,089 - INFO - **Change:** P1072.00
+2024-06-15 12:04:33,089 - INFO - **Total Amount:** P928.00
+2024-06-15 12:05:55,152 - INFO - Receipt saved successfully: receipts\receipt 15.txt
+2024-06-15 12:05:55,152 - INFO - **Transaction Details:**
+2024-06-15 12:05:55,152 - INFO - **Date:** 2024-06-15 12:05:55
+2024-06-15 12:05:55,152 - INFO - **Customer Name:** 
+2024-06-15 12:05:55,152 - INFO - **Sugar Level:** None
+2024-06-15 12:05:55,152 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 12:05:55,152 - INFO - **Item:** Flat White, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 12:05:55,152 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 12:05:55,152 - INFO - **Payment Method:** Card/GCash
+2024-06-15 12:05:55,152 - INFO - **Total Amount:** P290.00
+2024-06-15 12:19:35,432 - INFO - Receipt saved successfully: receipts\receipt 16.txt
+2024-06-15 12:19:35,432 - INFO - **Transaction Details:**
+2024-06-15 12:19:35,432 - INFO - **Date:** 2024-06-15 12:19:35
+2024-06-15 12:19:35,432 - INFO - **Customer Name:** CHARLITO
+2024-06-15 12:19:35,432 - INFO - **Sugar Level:** 50%
+2024-06-15 12:19:35,432 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 12:19:35,432 - INFO - **Item:** Flat White, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 12:19:35,432 - INFO - **Item:** Baguette, **Quantity:** 3, **Size:** None, **Price:** P480.00
+2024-06-15 12:19:35,432 - INFO - **Item:** Brioche, **Quantity:** 1, **Size:** None, **Price:** P130.00
+2024-06-15 12:19:35,432 - INFO - **Item:** Croissant, **Quantity:** 1, **Size:** None, **Price:** P180.00
+2024-06-15 12:19:35,432 - INFO - **PWD/Senior Citizen:** Yes
+2024-06-15 12:19:35,432 - INFO - **Payment Method:** Card/GCash
+2024-06-15 12:19:35,432 - INFO - **Total Amount:** P864.00
+2024-06-14 21:58:10,331 - INFO - Receipt saved successfully: receipts\receipt 17.txt
+2024-06-14 21:58:10,331 - INFO - **Transaction Details:**
+2024-06-14 21:58:10,331 - INFO - **Date:** 2024-06-14 21:58:10
+2024-06-14 21:58:10,331 - INFO - **Customer Name:** 
+2024-06-14 21:58:10,331 - INFO - **Sugar Level:** 75%
+2024-06-14 21:58:10,331 - INFO - **Item:** Mocha, **Quantity:** 2, **Size:** Tall, **Price:** P290.00
+2024-06-14 21:58:10,331 - INFO - **Item:** Mocha, **Quantity:** 2, **Size:** Grande, **Price:** P320.00
+2024-06-14 21:58:10,331 - INFO - **Item:** Cappuccino, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-14 21:58:10,332 - INFO - **Item:** Cappuccino, **Quantity:** 2, **Size:** Venti, **Price:** P350.00
+2024-06-14 21:58:10,332 - INFO - **Item:** Spanish Latte, **Quantity:** 3, **Size:** Tall, **Price:** P435.00
+2024-06-14 21:58:10,332 - INFO - **PWD/Senior Citizen:** Yes
+2024-06-14 21:58:10,332 - INFO - **Payment Method:** Cash
+2024-06-14 21:58:10,332 - INFO - **Cash Received:** P2000.00
+2024-06-14 21:58:10,332 - INFO - **Change:** P768.00
+2024-06-14 21:58:10,332 - INFO - **Total Amount:** P1232.00
+2024-06-14 21:59:32,358 - INFO - Receipt saved successfully: receipts\receipt 18.txt
+2024-06-14 21:59:32,358 - INFO - **Transaction Details:**
+2024-06-14 21:59:32,358 - INFO - **Date:** 2024-06-14 21:59:32
+2024-06-14 21:59:32,358 - INFO - **Customer Name:** dwadawdaw
+2024-06-14 21:59:32,358 - INFO - **Sugar Level:** 100%
+2024-06-14 21:59:32,358 - INFO - **Item:** Baguette, **Quantity:** 2, **Size:** None, **Price:** P320.00
+2024-06-14 21:59:32,359 - INFO - **Item:** Brioche, **Quantity:** 1, **Size:** None, **Price:** P130.00
+2024-06-14 21:59:32,359 - INFO - **Item:** Croissant, **Quantity:** 2, **Size:** None, **Price:** P360.00
+2024-06-14 21:59:32,359 - INFO - **Item:** Eclair, **Quantity:** 1, **Size:** None, **Price:** P220.00
+2024-06-14 21:59:32,359 - INFO - **Item:** Kouign, **Quantity:** 1, **Size:** None, **Price:** P190.00
+2024-06-14 21:59:32,359 - INFO - **PWD/Senior Citizen:** Yes
+2024-06-14 21:59:32,359 - INFO - **Payment Method:** Card/GCash
+2024-06-14 21:59:32,359 - INFO - **Total Amount:** P976.00
+2024-06-14 22:02:34,953 - INFO - Receipt saved successfully: receipts\receipt 19.txt
+2024-06-14 22:02:34,953 - INFO - **Transaction Details:**
+2024-06-14 22:02:34,953 - INFO - **Date:** 2024-06-14 22:02:34
+2024-06-14 22:02:34,954 - INFO - **Customer Name:** 
+2024-06-14 22:02:34,954 - INFO - **Sugar Level:** None
+2024-06-14 22:02:34,954 - INFO - **PWD/Senior Citizen:** No
+2024-06-14 22:02:34,954 - INFO - **Payment Method:** Cash
+2024-06-14 22:02:34,954 - INFO - **Cash Received:** P200.00
+2024-06-14 22:02:34,954 - INFO - **Change:** P200.00
+2024-06-14 22:02:34,954 - INFO - **Total Amount:** P0.00
+2024-06-14 22:02:53,424 - INFO - Receipt saved successfully: receipts\receipt 20.txt
+2024-06-14 22:02:53,424 - INFO - **Transaction Details:**
+2024-06-14 22:02:53,425 - INFO - **Date:** 2024-06-14 22:02:53
+2024-06-14 22:02:53,425 - INFO - **Customer Name:** 
+2024-06-14 22:02:53,425 - INFO - **Sugar Level:** None
+2024-06-14 22:02:53,425 - INFO - **Item:** Ube Halaya, **Quantity:** 2, **Size:** Grande, **Price:** P380.00
+2024-06-14 22:02:53,425 - INFO - **Item:** Cookies N Cream, **Quantity:** 2, **Size:** Tall, **Price:** P350.00
+2024-06-14 22:02:53,425 - INFO - **Item:** Matcha, **Quantity:** 1, **Size:** Grande, **Price:** P190.00
+2024-06-14 22:02:53,426 - INFO - **PWD/Senior Citizen:** No
+2024-06-14 22:02:53,426 - INFO - **Payment Method:** Card/GCash
+2024-06-14 22:02:53,426 - INFO - **Total Amount:** P920.00
+2024-06-14 22:12:42,091 - INFO - Receipt saved successfully: receipts\receipt 21.txt
+2024-06-14 22:12:42,092 - INFO - **Transaction Details:**
+2024-06-14 22:12:42,092 - INFO - **Date:** 2024-06-14 22:12:42
+2024-06-14 22:12:42,093 - INFO - **Customer Name:** trecenyo
+2024-06-14 22:12:42,093 - INFO - **Sugar Level:** 75%
+2024-06-14 22:12:42,094 - INFO - **Item:** Baguette, **Quantity:** 1, **Size:** None, **Price:** P160.00
+2024-06-14 22:12:42,094 - INFO - **Item:** Brioche, **Quantity:** 2, **Size:** None, **Price:** P260.00
+2024-06-14 22:12:42,094 - INFO - **Item:** Croissant, **Quantity:** 2, **Size:** None, **Price:** P360.00
+2024-06-14 22:12:42,094 - INFO - **Item:** Kouign, **Quantity:** 2, **Size:** None, **Price:** P380.00
+2024-06-14 22:12:42,094 - INFO - **Item:** Macaron, **Quantity:** 1, **Size:** None, **Price:** P80.00
+2024-06-14 22:12:42,094 - INFO - **PWD/Senior Citizen:** Yes
+2024-06-14 22:12:42,094 - INFO - **Payment Method:** Cash
+2024-06-14 22:12:42,094 - INFO - **Cash Received:** P1000.00
+2024-06-14 22:12:42,094 - INFO - **Change:** P8.00
+2024-06-14 22:12:42,094 - INFO - **Total Amount:** P992.00
+2024-06-14 23:14:03,815 - INFO - Receipt saved successfully: receipts\receipt 22.txt
+2024-06-14 23:14:03,817 - INFO - **Transaction Details:**
+2024-06-14 23:14:03,818 - INFO - **Date:** 2024-06-14 23:14:03
+2024-06-14 23:14:03,819 - INFO - **Customer Name:** turon
+2024-06-14 23:14:03,820 - INFO - **Sugar Level:** 50%
+2024-06-14 23:14:03,820 - INFO - **Item:** Macchiato, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-14 23:14:03,821 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-14 23:14:03,821 - INFO - **Item:** Matcha, **Quantity:** 2, **Size:** Tall, **Price:** P350.00
+2024-06-14 23:14:03,821 - INFO - **PWD/Senior Citizen:** No
+2024-06-14 23:14:03,821 - INFO - **Payment Method:** Cash
+2024-06-14 23:14:03,822 - INFO - **Cash Received:** P1000.00
+2024-06-14 23:14:03,822 - INFO - **Change:** P360.00
+2024-06-14 23:14:03,822 - INFO - **Total Amount:** P640.00
+2024-06-14 23:14:24,526 - INFO - Receipt saved successfully: receipts\receipt 23.txt
+2024-06-14 23:14:24,527 - INFO - **Transaction Details:**
+2024-06-14 23:14:24,527 - INFO - **Date:** 2024-06-14 23:14:24
+2024-06-14 23:14:24,528 - INFO - **Customer Name:** turon
+2024-06-14 23:14:24,528 - INFO - **Sugar Level:** 50%
+2024-06-14 23:14:24,529 - INFO - **PWD/Senior Citizen:** No
+2024-06-14 23:14:24,530 - INFO - **Payment Method:** Card/GCash
+2024-06-14 23:14:24,530 - INFO - **Total Amount:** P0.00
+2024-06-14 23:16:39,065 - INFO - Receipt saved successfully: receipts\receipt 24.txt
+2024-06-14 23:16:39,066 - INFO - **Transaction Details:**
+2024-06-14 23:16:39,066 - INFO - **Date:** 2024-06-14 23:16:39
+2024-06-14 23:16:39,067 - INFO - **Customer Name:** turon
+2024-06-14 23:16:39,067 - INFO - **Sugar Level:** 50%
+2024-06-14 23:16:39,068 - INFO - **Item:** Matcha, **Quantity:** 1, **Size:** Tall, **Price:** P175.00
+2024-06-14 23:16:39,068 - INFO - **PWD/Senior Citizen:** No
+2024-06-14 23:16:39,068 - INFO - **Payment Method:** Cash
+2024-06-14 23:16:39,069 - INFO - **Cash Received:** P500.00
+2024-06-14 23:16:39,069 - INFO - **Change:** P325.00
+2024-06-14 23:16:39,070 - INFO - **Total Amount:** P175.00
+2024-06-14 23:24:25,947 - INFO - Receipt saved successfully: receipts\receipt 25.txt
+2024-06-14 23:24:25,948 - INFO - **Transaction Details:**
+2024-06-14 23:24:25,948 - INFO - **Date:** 2024-06-14 23:24:25
+2024-06-14 23:24:25,948 - INFO - **Customer Name:** 
+2024-06-14 23:24:25,948 - INFO - **Sugar Level:** None
+2024-06-14 23:24:25,948 - INFO - **PWD/Senior Citizen:** No
+2024-06-14 23:24:25,948 - INFO - **Payment Method:** Cash
+2024-06-14 23:24:25,949 - INFO - **Cash Received:** P5500.00
+2024-06-14 23:24:25,949 - INFO - **Change:** P5500.00
+2024-06-14 23:24:25,949 - INFO - **Total Amount:** P0.00
+2024-06-15 02:34:19,534 - INFO - Receipt saved successfully: receipts\receipt 26.txt
+2024-06-15 02:34:19,534 - INFO - **Transaction Details:**
+2024-06-15 02:34:19,534 - INFO - **Date:** 2024-06-15 02:34:19
+2024-06-15 02:34:19,534 - INFO - **Customer Name:** 
+2024-06-15 02:34:19,535 - INFO - **Sugar Level:** None
+2024-06-15 02:34:19,535 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 02:34:19,535 - INFO - **Item:** Flat White, **Quantity:** 2, **Size:** Tall, **Price:** P290.00
+2024-06-15 02:34:19,535 - INFO - **Item:** Cappuccino, **Quantity:** 2, **Size:** Tall, **Price:** P290.00
+2024-06-15 02:34:19,535 - INFO - **Item:** Spanish Latte, **Quantity:** 3, **Size:** Tall, **Price:** P435.00
+2024-06-15 02:34:19,535 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 02:34:19,535 - INFO - **Payment Method:** Cash
+2024-06-15 02:34:19,536 - INFO - **Cash Received:** P25000.00
+2024-06-15 02:34:19,536 - INFO - **Change:** P23840.00
+2024-06-15 02:34:19,536 - INFO - **Total Amount:** P1160.00
+2024-06-15 02:42:27,157 - INFO - Receipt saved successfully: receipts\receipt 27.txt
+2024-06-15 02:42:27,157 - INFO - **Transaction Details:**
+2024-06-15 02:42:27,157 - INFO - **Date:** 2024-06-15 02:42:27
+2024-06-15 02:42:27,157 - INFO - **Customer Name:** 
+2024-06-15 02:42:27,157 - INFO - **Sugar Level:** None
+2024-06-15 02:42:27,157 - INFO - **Item:** Flat White, **Quantity:** 2, **Size:** Grande, **Price:** P320.00
+2024-06-15 02:42:27,157 - INFO - **Item:** Spanish Latte, **Quantity:** 3, **Size:** Grande, **Price:** P480.00
+2024-06-15 02:42:27,157 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 02:42:27,157 - INFO - **Payment Method:** Cash
+2024-06-15 02:42:27,158 - INFO - **Cash Received:** P2000.00
+2024-06-15 02:42:27,158 - INFO - **Change:** P1200.00
+2024-06-15 02:42:27,158 - INFO - **Total Amount:** P800.00
+2024-06-15 02:46:45,930 - INFO - Receipt saved successfully: receipts\receipt 28.txt
+2024-06-15 02:46:45,930 - INFO - **Transaction Details:**
+2024-06-15 02:46:45,930 - INFO - **Date:** 2024-06-15 02:46:45
+2024-06-15 02:46:45,930 - INFO - **Customer Name:** 
+2024-06-15 02:46:45,930 - INFO - **Sugar Level:** None
+2024-06-15 02:46:45,931 - INFO - **Item:** Mocha, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 02:46:45,931 - INFO - **Item:** Flat White, **Quantity:** 2, **Size:** Tall, **Price:** P290.00
+2024-06-15 02:46:45,931 - INFO - **Item:** Cappuccino, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 02:46:45,931 - INFO - **Item:** Spanish Latte, **Quantity:** 2, **Size:** Tall, **Price:** P290.00
+2024-06-15 02:46:45,931 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 02:46:45,931 - INFO - **Payment Method:** Cash
+2024-06-15 02:46:45,931 - INFO - **Cash Received:** P5000.00
+2024-06-15 02:46:45,931 - INFO - **Change:** P4130.00
+2024-06-15 02:46:45,931 - INFO - **Total Amount:** P870.00
+2024-06-15 02:47:22,447 - INFO - Receipt saved successfully: receipts\receipt 29.txt
+2024-06-15 02:47:22,448 - INFO - **Transaction Details:**
+2024-06-15 02:47:22,448 - INFO - **Date:** 2024-06-15 02:47:22
+2024-06-15 02:47:22,448 - INFO - **Customer Name:** 
+2024-06-15 02:47:22,448 - INFO - **Sugar Level:** None
+2024-06-15 02:47:22,448 - INFO - **Item:** Flat White, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 02:47:22,449 - INFO - **Item:** Spanish Latte, **Quantity:** 2, **Size:** Tall, **Price:** P290.00
+2024-06-15 02:47:22,449 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 02:47:22,449 - INFO - **Payment Method:** Cash
+2024-06-15 02:47:22,449 - INFO - **Cash Received:** P2000.00
+2024-06-15 02:47:22,449 - INFO - **Change:** P1565.00
+2024-06-15 02:47:22,449 - INFO - **Total Amount:** P435.00
+2024-06-15 02:51:14,651 - INFO - Receipt saved successfully: receipts\receipt 30.txt
+2024-06-15 02:51:14,651 - INFO - **Transaction Details:**
+2024-06-15 02:51:14,652 - INFO - **Date:** 2024-06-15 02:51:14
+2024-06-15 02:51:14,652 - INFO - **Customer Name:** 
+2024-06-15 02:51:14,652 - INFO - **Sugar Level:** None
+2024-06-15 02:51:14,652 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 02:51:14,652 - INFO - **Payment Method:** Cash
+2024-06-15 02:51:14,652 - INFO - **Cash Received:** P55000.00
+2024-06-15 02:51:14,652 - INFO - **Change:** P55000.00
+2024-06-15 02:51:14,652 - INFO - **Total Amount:** P0.00
+2024-06-15 03:10:24,431 - INFO - Receipt saved successfully: receipts\receipt 31.txt
+2024-06-15 03:10:24,433 - INFO - **Transaction Details:**
+2024-06-15 03:10:24,433 - INFO - **Date:** 2024-06-15 03:10:24
+2024-06-15 03:10:24,433 - INFO - **Customer Name:** 
+2024-06-15 03:10:24,433 - INFO - **Sugar Level:** None
+2024-06-15 03:10:24,433 - INFO - **Item:** Cappuccino, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 03:10:24,433 - INFO - **Item:** Spanish Latte, **Quantity:** 2, **Size:** Tall, **Price:** P290.00
+2024-06-15 03:10:24,434 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 03:10:24,434 - INFO - **Payment Method:** Card/GCash
+2024-06-15 03:10:24,434 - INFO - **Total Amount:** P435.00
+2024-06-15 03:14:35,085 - INFO - Receipt saved successfully: receipts\receipt 32.txt
+2024-06-15 03:14:35,086 - INFO - **Transaction Details:**
+2024-06-15 03:14:35,086 - INFO - **Date:** 2024-06-15 03:14:35
+2024-06-15 03:14:35,086 - INFO - **Customer Name:** 
+2024-06-15 03:14:35,086 - INFO - **Sugar Level:** None
+2024-06-15 03:14:35,087 - INFO - **Item:** Cappuccino, **Quantity:** 1, **Size:** Venti, **Price:** P175.00
+2024-06-15 03:14:35,087 - INFO - **Item:** Spanish Latte, **Quantity:** 1, **Size:** Tall, **Price:** P145.00
+2024-06-15 03:14:35,087 - INFO - **PWD/Senior Citizen:** No
+2024-06-15 03:14:35,087 - INFO - **Payment Method:** Card/GCash
+2024-06-15 03:14:35,087 - INFO - **Total Amount:** P320.00
+2025-03-03 20:02:02,816 - INFO - Receipt saved successfully: receipts\receipt 33.txt
+2025-03-03 20:02:02,909 - INFO - **Transaction Details:**
+2025-03-03 20:02:02,910 - INFO - **Date:** 2025-03-03 20:02:02
+2025-03-03 20:02:02,910 - INFO - **Customer Name:** tite
+2025-03-03 20:02:02,910 - INFO - **Sugar Level:** None
+2025-03-03 20:02:02,910 - INFO - **Item:** Brioche, **Quantity:** 1, **Size:** None, **Price:** P130.00
+2025-03-03 20:02:02,910 - INFO - **Item:** Croissant, **Quantity:** 3, **Size:** None, **Price:** P540.00
+2025-03-03 20:02:02,910 - INFO - **Item:** Kouign, **Quantity:** 1, **Size:** None, **Price:** P190.00
+2025-03-03 20:02:02,910 - INFO - **Item:** Macaron, **Quantity:** 3, **Size:** None, **Price:** P240.00
+2025-03-03 20:02:02,911 - INFO - **PWD/Senior Citizen:** Yes
+2025-03-03 20:02:02,911 - INFO - **Payment Method:** Cash
+2025-03-03 20:02:02,911 - INFO - **Cash Received:** P1000.00
+2025-03-03 20:02:02,911 - INFO - **Change:** P120.00
+2025-03-03 20:02:02,911 - INFO - **Total Amount:** P880.00

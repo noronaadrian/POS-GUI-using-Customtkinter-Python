@@ -1,0 +1,27 @@
+------------------------------------------------------
+                   CATPUCCINO
+                 Near at CVSU Imus
+                   0912-5911-391
+------------------------------------------------------
+Date: 2024-06-15 02:55:55
+Customer Name: wawa
+Sugar Level: 75%
+------------------------------------------------------
+Item Name                  Quantity      Size       Price
+------------------------------------------------------
+Flat White                x1         Venti      P175.00
+Cappuccino                x1         Venti      P175.00
+Spanish Latte             x1         Venti      P175.00
+------------------------------------------------------
+PWD/Senior Citizen: Yes
+Payment Method: Cash
+Cash Received: P500.00
+Change: P80.00
+Total Amount: P420.00
+------------------------------------------------------
+        THANK YOU FOR YOUR VISIT
+      We hope to see you again soon.
+------------------------------------------------------
+           This serves as your Official Receipt
+    Visit our Facebook Page: www.facebook.com/znn666
+------------------------------------------------------

@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+                     CATPUCCINO
+                  Near at CVSU Imus
+                    0912-5911-391
+----------------------------------------------------------------
+Date: 2024-06-15 12:04:33
+Customer Name: adrian
+Sugar Level: 100%
+----------------------------------------------------------------
+Item Name                  Quantity      Size       Price
+----------------------------------------------------------------
+Flat White                x5         Tall       P725.00
+Spanish Latte             x3         Tall       P435.00
+----------------------------------------------------------------
+PWD/Senior Citizen: Yes
+Payment Method: Cash
+Cash Received: P2000.00
+Change: P1072.00
+Total Amount: P928.00
+----------------------------------------------------------------
+              THANK YOU FOR YOUR VISIT
+           We hope to see you again soon.
+----------------------------------------------------------------
+           This serves as your Official Receipt
+    Visit our Facebook Page: www.facebook.com/znn666
+----------------------------------------------------------------

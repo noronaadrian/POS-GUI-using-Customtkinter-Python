@@ -1,0 +1,27 @@
+----------------------------------------------------------------
+                     CATPUCCINO
+                  Near at CVSU Imus
+                    0912-5911-391
+----------------------------------------------------------------
+Date: 2024-06-14 23:14:03
+Customer Name: turon
+Sugar Level: 50%
+----------------------------------------------------------------
+Item Name               Quantity      Size       Price
+----------------------------------------------------------------
+Macchiato                 x1         Tall       P145.00
+Mocha                     x1         Tall       P145.00
+Matcha                    x2         Tall       P350.00
+----------------------------------------------------------------
+Discount: No
+Payment Method: Cash
+Cash Received: P1000.00
+Change: P360.00
+Total Amount: P640.00
+----------------------------------------------------------------
+              THANK YOU FOR YOUR VISIT
+           We hope to see you again soon.
+----------------------------------------------------------------
+           This serves as your Official Receipt
+    Visit our Facebook Page: www.facebook.com/znn666
+----------------------------------------------------------------

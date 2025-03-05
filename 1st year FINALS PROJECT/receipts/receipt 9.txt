@@ -1,0 +1,30 @@
+------------------------------------------------------
+                     CATPUCCINO
+                  Near at CVSU Imus
+                    0912-5911-391
+------------------------------------------------------
+Date: 2024-06-15 03:29:40
+Customer Name: gab
+Sugar Level: 100%
+------------------------------------------------------
+Item Name                  Quantity      Size       Price
+------------------------------------------------------
+Macchiato                 x1         Venti      P175.00
+Mocha                     x1         Venti      P175.00
+Flat White                x1         Venti      P175.00
+Baguette                  x1         None       P160.00
+Brioche                   x1         None       P130.00
+Croissant                 x1         None       P180.00
+------------------------------------------------------
+PWD/Senior Citizen: Yes
+Payment Method: Cash
+Cash Received: P1000.00
+Change: P204.00
+Total Amount: P796.00
+------------------------------------------------------
+              THANK YOU FOR YOUR VISIT
+           We hope to see you again soon.
+------------------------------------------------------
+           This serves as your Official Receipt
+    Visit our Facebook Page: www.facebook.com/znn666
+------------------------------------------------------

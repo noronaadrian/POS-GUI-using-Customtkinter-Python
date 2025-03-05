@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+                     CATPUCCINO
+                  Near at CVSU Imus
+                    0912-5911-391
+----------------------------------------------------------------
+Date: 2024-06-14 22:12:42
+Customer Name: trecenyo
+Sugar Level: 75%
+----------------------------------------------------------------
+Item Name               Quantity      Size       Price
+----------------------------------------------------------------
+Baguette                  x1         None       P160.00
+Brioche                   x2         None       P260.00
+Croissant                 x2         None       P360.00
+Kouign                    x2         None       P380.00
+Macaron                   x1         None       P80.00
+----------------------------------------------------------------
+PWD/Senior Citizen: Yes
+Payment Method: Cash
+Cash Received: P1000.00
+Change: P8.00
+Total Amount: P992.00
+----------------------------------------------------------------
+              THANK YOU FOR YOUR VISIT
+           We hope to see you again soon.
+----------------------------------------------------------------
+           This serves as your Official Receipt
+    Visit our Facebook Page: www.facebook.com/znn666
+----------------------------------------------------------------
