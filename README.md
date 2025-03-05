@@ -1,4 +1,4 @@
-#🛒 Point of Sale (POS) System in Python
+# 🛒 Point of Sale (POS) System in Python
 
 A simple yet efficient **Point of Sale (POS) System** built in Python for managing sales transactions, inventory, and receipts. Designed for small businesses to streamline operations with ease.
 
